@@ -1,7 +1,7 @@
 uuid: db695173-e235-45e4-b6a4-b5207bb49083
 name: dunder-build-demo
 mail: raymond.wang@pantheon.io
-slogan: ''
+slogan: 'A demo of build tools'
 page:
   403: ''
   404: ''
